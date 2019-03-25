@@ -1,0 +1,37 @@
+- profiles
+- redirect {
+	- assinate:  https://aplena.local/area-restrita/
+}
+
+
+- add admin menu editor
+
+
+- rForum {
+	- pages
+	OK - cpt topicos {
+		OK - url rewrite para forum/%forum%/%topico%
+	}
+	OK - tax forum
+	OK - menus {
+		OK - change Topics main to Forums
+		OK - order
+	}
+	- [forum_list]
+	- [topic_list forum_id=""]
+	- [topic]
+	- endpoints {
+		- forum/add
+		- forum/edit
+		- topic/add
+		- topic/edit {
+			- approve
+			- reprove
+		}
+		- comment/add
+		- comment/edit {
+			- approve
+			- reprove
+		}
+	}
+}

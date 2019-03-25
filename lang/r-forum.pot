@@ -1,0 +1,279 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: rForum\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-24 18:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#. Description of the plugin
+msgid "A Forum plugin for WP"
+msgstr ""
+
+#: inc/tax-forum/core.php:54
+msgid "Add New Forum"
+msgstr ""
+
+#: inc/cpt-topic/core.php:70 inc/cpt-topic/core.php:71
+msgid "Add New Topic"
+msgstr ""
+
+#: inc/tax-forum/core.php:59
+msgid "Add or remove forums"
+msgstr ""
+
+#: inc/tax-forum/sc.php:110
+msgid "Add the first topic to this forum"
+msgstr ""
+
+#: inc/tax-forum/core.php:50
+msgid "All Forums"
+msgstr ""
+
+#: inc/cpt-topic/core.php:69
+msgid "All Topics"
+msgstr ""
+
+#: inc/tax-forum/core.php:60
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/tax-forum/_fields-with-details.php:80
+msgid "Choose this forum's Moderators"
+msgstr ""
+
+#: inc/cpt-topic/metabox.php:77 inc/tax-forum/fields.php:111
+#: inc/tax-forum/_fields-with-details.php:93
+msgid "comments"
+msgstr ""
+
+#: inc/tax-forum/fields.php:85 inc/tax-forum/_fields-minimum.php:64
+#: inc/tax-forum/_fields-with-details.php:65
+msgid "Description"
+msgstr ""
+
+#: inc/tax-forum/core.php:55
+msgid "Edit Forum"
+msgstr ""
+
+#: inc/cpt-topic/core.php:73
+msgid "Edit Topic"
+msgstr ""
+
+#: inc/cpt-topic/core.php:80
+msgid "Featured Image"
+msgstr ""
+
+#: inc/cpt-topic/core.php:88
+msgid "Filter topics list"
+msgstr ""
+
+#: inc/tax-forum/sc.php:85 inc/tax-forum/sc.php:91
+msgid "Forum"
+msgstr ""
+
+#: inc/menus.php:48
+msgid "Forum's References"
+msgstr ""
+
+#: inc/menus.php:28 inc/tax-forum/core.php:49 inc/tax-forum/core.php:100
+msgid "Forums"
+msgstr ""
+
+#: inc/tax-forum/core.php:65
+msgid "Forums list"
+msgstr ""
+
+#: inc/tax-forum/core.php:66
+msgid "Forums list navigation"
+msgstr ""
+
+#: inc/menus.php:49
+msgid ""
+"Here you'll find all the references about Forum, Topics, its Comments, "
+"Shortcodes and infos about rForum."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.raphaelramos.com.br/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.raphaelramos.com.br/wp/plugins/r-forum/"
+msgstr ""
+
+#: inc/cpt-topic/core.php:84
+msgid "Insert into topic"
+msgstr ""
+
+#: inc/cpt-topic/core.php:101
+msgid "List of topics of forums"
+msgstr ""
+
+#. id
+#: inc/cpt-topic/metabox.php:54 inc/tax-forum/columns.php:28
+#: inc/tax-forum/fields.php:97 inc/tax-forum/_fields-with-details.php:77
+msgid "Moderators"
+msgstr ""
+
+#: inc/tax-forum/core.php:53
+msgid "New Forum Name"
+msgstr ""
+
+#: inc/cpt-topic/core.php:72
+msgid "New Topic"
+msgstr ""
+
+#: inc/tax-forum/core.php:64
+msgid "No forums"
+msgstr ""
+
+#: inc/tax-forum/core.php:63
+msgid "Not Found"
+msgstr ""
+
+#: inc/cpt-topic/core.php:78
+msgid "Not found"
+msgstr ""
+
+#: inc/cpt-topic/core.php:79
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/tax-forum/core.php:51
+msgid "Parent Forum"
+msgstr ""
+
+#: inc/tax-forum/core.php:52
+msgid "Parent Forum:"
+msgstr ""
+
+#: inc/cpt-topic/core.php:68
+msgid "Parent Topic:"
+msgstr ""
+
+#: inc/tax-forum/core.php:61
+msgid "Popular Forums"
+msgstr ""
+
+#: inc/cpt-topic/core.php:62
+msgctxt "Post Type General Name"
+msgid "Topics"
+msgstr ""
+
+#: inc/cpt-topic/core.php:63
+msgctxt "Post Type Singular Name"
+msgid "Topic"
+msgstr ""
+
+#. Author of the plugin
+msgid "Raphael Ramos"
+msgstr ""
+
+#: inc/menus.php:37 inc/menus.php:38
+msgid "References"
+msgstr ""
+
+#: inc/cpt-topic/core.php:82
+msgid "Remove featured image"
+msgstr ""
+
+#. Name of the plugin
+msgid "rForum"
+msgstr ""
+
+#: inc/tax-forum/core.php:62
+msgid "Search Forums"
+msgstr ""
+
+#: inc/cpt-topic/core.php:77
+msgid "Search Topic"
+msgstr ""
+
+#: inc/tax-forum/sc.php:110
+msgid "See topics in this forum"
+msgstr ""
+
+#: inc/tax-forum/core.php:58
+msgid "Separate forums with commas"
+msgstr ""
+
+#: inc/cpt-topic/core.php:81
+msgid "Set featured image"
+msgstr ""
+
+#: inc/tax-forum/core.php:47
+msgctxt "Taxonomy General Name"
+msgid "Forums"
+msgstr ""
+
+#: inc/tax-forum/core.php:48
+msgctxt "Taxonomy Singular Name"
+msgid "Forum"
+msgstr ""
+
+#: inc/cpt-topic/core.php:65
+msgid "Topic"
+msgstr ""
+
+#: inc/cpt-topic/core.php:66
+msgid "Topic Archives"
+msgstr ""
+
+#: inc/cpt-topic/core.php:67
+msgid "Topic Attributes"
+msgstr ""
+
+#: inc/menus.php:30 inc/cpt-topic/core.php:64 inc/tax-forum/columns.php:29
+#: inc/tax-forum/sc.php:86 inc/tax-forum/sc.php:92
+msgid "Topics"
+msgstr ""
+
+#: inc/cpt-topic/core.php:86
+msgid "Topics list"
+msgstr ""
+
+#: inc/cpt-topic/core.php:87
+msgid "Topics list navigation"
+msgstr ""
+
+#: inc/tax-forum/core.php:56
+msgid "Update Forum"
+msgstr ""
+
+#: inc/cpt-topic/core.php:74
+msgid "Update Topic"
+msgstr ""
+
+#: inc/cpt-topic/core.php:85
+msgid "Uploaded to this topic"
+msgstr ""
+
+#: inc/cpt-topic/core.php:83
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/tax-forum/core.php:57
+msgid "View Forum"
+msgstr ""
+
+#: inc/cpt-topic/core.php:75
+msgid "View Topic"
+msgstr ""
+
+#: inc/cpt-topic/core.php:76
+msgid "View Topics"
+msgstr ""
+
+#: inc/cpt-topic/core.php:149
+msgid "You need to select a Forum."
+msgstr ""
